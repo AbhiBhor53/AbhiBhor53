@@ -1,7 +1,8 @@
-<!-- SNAKE HEADER -->
-<p align="center">
-  <img src="https://github.com/AbhiBhor53/AbhiBhor53/blob/output/github-snake-dark.svg" />
-</p>
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=600&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhishek+Bhor;I+Analyze+Data;I+Build+Insights;Welcome+to+My+Profile" />
+
 
 <h1 align="center">Hi 👋, I'm Abhishek Bhor</h1>
 
@@ -54,7 +55,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/abhishek-bhor-06b582205/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/">
