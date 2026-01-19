@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.E. Computer Engineering Graduate  
-- 📊 Aspiring Data Analyst  
+- 📊 Data Analyst  
 - 🐍 Python | Pandas | NumPy  
 - 📈 Power BI | Excel | Matplotlib  
 - 🗄️ SQL for data extraction  
